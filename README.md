@@ -1,15 +1,13 @@
 # Project_Template
 
 ## Team Name: 
-(Enter your team name from Canvas)
-
+ASIC VMA
 ## Team Members:
-- Student 1
-- Student 2
-- Student 3
-
+- Rithani Priyanga Coimbatore Kannan (hwu6hc)
+- Vishnuvartthan Govindaraj (fpp6vt)
+  
 ## Project Title:
-(Enter your project title - be creative)
+ASIC VMA
 
 ## Project Description:
 (Provide a short description of the problem you're addressing)
