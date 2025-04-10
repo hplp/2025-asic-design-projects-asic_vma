@@ -7,7 +7,7 @@ ASIC VMA
 - Vishnuvartthan Govindaraj (fpp6vt)
   
 ## Project Title:
-ASIC VMA
+Testing and Creating Multiple Approaches and Techniques of Using LLM for ASIC Design
 
 ## Project Description:
 The project explores the application of LLMs, such as ChatGPT, to assist in digital ASIC design using Synopsys Tools. We use a Vector Multiply-Accumulate module as the reference design to evaluate how LLMs perform across various hardware development tasks, including Verilog code generation, testbench creation, integration into larger systems, and generation of timing constraints.
