@@ -10,8 +10,9 @@ ASIC VMA
 ASIC VMA
 
 ## Project Description:
-(Provide a short description of the problem you're addressing)
+The project explores the application of LLMs, such as ChatGPT, to assist in digital ASIC design. We use a Vector Multiply-Accumulate module as the reference design to evaluate how LLMs perform across various hardware development tasks, including Verilog code generation, testbench creation, integration into larger systems, and generation of timing constraints.
 
+The project explores how LLMs can reduce engineering overhead while maintaining correctness and synthesizability, leveraging Synopsys Design Compiler, VCS, and Primetime for analysis.
 ## Key Objectives:
 To evaluate and list out how Large Language Models, LLMs, such as ChatGPT can assist in various phases of ASIC digital design. Specifically, the project investigates prompting strategies for:
 
